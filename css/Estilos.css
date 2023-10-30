@@ -1,0 +1,25 @@
+#div1 {
+    text-align: center;
+    grid-row:auto;
+    float: left;
+    width: 100px;
+    height: 35px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+  }
+
+#div2 {
+    text-align: center;
+    grid-row:auto;
+    float: right;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+#div3 {
+    text-align: center;
+}
